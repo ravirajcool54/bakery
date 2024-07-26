@@ -1,2 +1,3 @@
 # bakery
-This is full page Bakery Web design with fully responsive. 
+This is a full-page Bakery Web design that is fully responsive. 
+Author: Ravi Kumar Rajak 
